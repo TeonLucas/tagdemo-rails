@@ -1,4 +1,4 @@
-# Rails app demo using React and Go RPC server
+# Rails app using React and Go RPC server
 
 ## Gems used
 * Go server is integrated using the quartz
