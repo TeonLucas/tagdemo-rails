@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  width: 1
+  height: 1
+  url: MyString
+  title: MyString
+  artist: MyString
+  gallery: MyString
+  organization: MyString
+  media: MyString
+
+two:
+  id: 1
+  width: 1
+  height: 1
+  url: MyString
+  title: MyString
+  artist: MyString
+  gallery: MyString
+  organization: MyString
+  media: MyString
