@@ -1,0 +1,7 @@
+{
+  "name" : "User Count",
+  "provider" : "MySQL",
+  "query" : "SELECT COUNT(id) AS user_count FROM users",
+  "type" : "metric",
+  "database" : "tagdemo"
+}

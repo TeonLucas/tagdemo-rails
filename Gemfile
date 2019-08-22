@@ -70,3 +70,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Go application server
 gem "quartz", "~> 1.5"
 
+# Uncomment following to Add New Relic monitoring
+# gem 'newrelic_rpm',  '>= 6.5.0.357'
