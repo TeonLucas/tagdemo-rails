@@ -1,7 +1,7 @@
 # Rails app using React and Go RPC server
 
 ## Gems used
-* Go server is integrated using the quartz
+* Go server is integrated using the quartz gem
 * React uses react-rails and bootstrap-saas
 
 ## Add New Relic monitoring
@@ -12,7 +12,7 @@ gem install newrelic_rpm
 if you don't already have the New Relic ruby agent on your system.
 
 Then uncomment the last line of the Gemfile to enable that gem.
-Also add your licnese key to `config/newrelic.yml`
+Also add your license key to `config/newrelic.yml`
 
 ## How to install
 Setup rails as follows
